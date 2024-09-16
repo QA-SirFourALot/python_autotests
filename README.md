@@ -48,8 +48,8 @@ PS> C:\Users\Name\AppData\Local\Programs\Python\Python310\python -m venv venv
 Теперь, когда вы создали виртуальное окружение, необходимо запустить скрипт активации
 
 ``` markdown
-PS> venv\Scripts\activate
-(venv) PS>
+PS> venv\Scripts\activate (venv) PS>
+```
 
 4. Устанавливаем библиотеки
 
