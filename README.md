@@ -26,7 +26,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/python_autotests/main/Tests.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
