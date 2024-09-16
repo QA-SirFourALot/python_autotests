@@ -55,6 +55,9 @@ PS> venv\Scripts\activate
 
 ``` markdown
 (venv) PS> python -m pip install requests
+```
+
+``` markdown
 (venv) PS> python -m pip install pytest
 ```
 
