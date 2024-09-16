@@ -63,7 +63,7 @@ PS> venv\Scripts\activate (venv) PS>
 
 Запускаем
 ``` markdown
-pytest RequestTests/tests/test_pokemons.py
+pytest tests/test_pokemons.py
 ```
 
 5. Ожидаемый результат: получим отчет о прохождении тестов.
