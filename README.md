@@ -71,4 +71,5 @@ pytest RequestTests/tests/test_pokemons.py
 
 ## Автор
 
-Клим Истомин ([@SirFouralot]([https://t.me/SirFouralot))
+Клим Истомин ([@SirFouralot](https://t.me/SirFouralot))
+
